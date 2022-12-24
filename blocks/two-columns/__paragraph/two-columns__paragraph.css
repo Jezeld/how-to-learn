@@ -5,3 +5,9 @@
   margin-top: 0px;
   margin-bottom: 0px;
 }
+.two-columns__paragraph:first-child {
+  margin-bottom: 30px;
+}
+.two-columns__paragraph:nth-child(2) {
+  margin-bottom: 30px;
+}
