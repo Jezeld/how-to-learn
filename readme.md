@@ -14,4 +14,6 @@
 
 Склонировано из репозитория:
 
-git clone https://github.com/Jezeld/how-to-learn.git
+git clone [https://github.com/Jezeld/how-to-learn.git](https://github.com/Jezeld/how-to-learn.git)
+
+### Проект выложен на Github Pages по ссылке:  https://jezeld.github.io/how-to-learn/
