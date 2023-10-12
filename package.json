@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Jezeld/how-to-learn#readme",
   "devDependencies": {
-    "css-to-bem-file-structure": "^0.0.2"
+    "css-to-bem-file-structure": "^0.0.2",
+    "gh-pages": "^6.0.0"
   }
 }
